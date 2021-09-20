@@ -1,0 +1,46 @@
+.text_area{
+    width: 30%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+    box-shadow: 5px 5px 15px -5px rgba(0,0,0, 0.5);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.plus{
+    
+    /*border-radius: 50%;*/
+    margin-left: 520px;
+    
+    font-size: 16px;
+     border-radius: 50%;
+     background-color: purple;
+  color: white;
+  padding: 10px;
+  
+
+
+}
+.plus:hover{
+    cursor: pointer;
+    background-color: rebeccapurple;
+}
+input{
+    
+    width: 30%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    box-shadow: 5px 5px 15px -5px rgba(0,0,0, 0.5);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,13 @@
+.header{
+    background: purple;
+    height : 13vh;
+    /*text-align: center;*/
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.5);
+
+
+}
+.elite{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-right: 20px;
+}

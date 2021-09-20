@@ -1,0 +1,32 @@
+.note{
+    width: 20%;
+    height: 185px;
+    /*padding: 12px 20px;*/
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #f8f8f8;
+    resize: none;
+    box-shadow: 5px 5px 15px -5px rgba(0,0,0, 0.5);
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+
+
+.btn{
+
+    font-size: 10px;
+    border-radius: 50%;
+    background-color: purple;
+    color: white;
+    padding: 8px;
+    float: right;
+    margin-right: 5px;
+    border: none;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: rebeccapurple;
+    color: white;
+}
